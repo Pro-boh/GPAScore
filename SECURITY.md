@@ -38,6 +38,6 @@ While we work hard to ensure the security of our project, we also encourage user
 
 ## Security Contact Information
 
-If you need to reach us directly about any security issues, please contact us at [security@example.com](mailto:security@example.com).
+If you need to reach us directly about any security issues, please contact us at [prabodha.stu@gmail.com](mailto:prabodha.stu@gmail.com).
 
 Thank you for helping us keep our project safe and secure for everyone!
