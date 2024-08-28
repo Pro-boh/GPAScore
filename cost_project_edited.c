@@ -9,6 +9,21 @@ Group Number: 41
 This program provides a basic structure for registering information of students in various degree programs and storing that information in separate text files.
 However, it assumes that the user enters valid data and does not include more robust error handling or data validation.
 In addition, it may require further refinement and testing for practical use.
+
+  Copyright 2024 PRABODHA PATHIRANA
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
 */
 
 //(Include necessary header files) The standard input/output and standard library header files, which provide functions for file handling and user input/output.
