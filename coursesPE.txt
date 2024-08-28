@@ -1,0 +1,33 @@
+Course Code		Path 1		Path 2
+ACLT 11013		   C		   C 
+ACLT 12022		   O 		   O 
+ACLT 21032		   O 		   O 
+AMAT 11223 		   C 
+AMAT 12253 		   O 
+AMAT 21262		   O 
+AMAT 32323		   O 
+CMSK 14012		   A 		    A 
+CMSK 14022		   A		    A 
+CMSK 14032 		   A   		    A 
+CMSK 14042		   A 		    A 
+CMSK 14052 		   A 		    A 
+COST 11012  				    C 
+COST 11023 				    C 
+COST 12032 				    C 
+COST 12043 				    C 
+ELEC 11513		   C 		    C 
+ELEC 11521 		   C		    C 
+ELEC 12534 		   C 		    C 
+ELEC 12541 		   C 		    C 
+MAPS 11512 		   A 		    A 
+PHYS 11512 		   C 		    C 
+PHYS 11521 		   C 		    C 
+PHYS 11532 		   C 		    C 
+PHYS 12542		   C 		    C 
+PHYS 12552		   C 		    C 
+PHYS 12561 		   C 		    C 
+PMAT 11223 		   C 		    C 
+PMAT 11232 		   C 		    C 
+PMAT 12253		   C 
+
+
